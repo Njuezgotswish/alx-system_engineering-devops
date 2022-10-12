@@ -1,0 +1,11 @@
+total 20
+-rw-r--r-- 1 root root    0 Oct 12 07:13 
+
+drwxr-xr-x 2 root root  150 Oct 12 07:51 .
+drwxr-xr-x 4 root root 4096 Oct 12 07:50 ..
+-rw-r--r-- 1 root root   32 Oct 12 07:12 \*\'"Best
+-rw-r--r-- 1 root root   34 Oct 12 07:13 \\*\\\"Best
+-rw-r--r-- 1 root root   40 Oct 12 07:26 \*\\'"Best School"'\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  430 Oct 12 07:49 ls_cwd
+-rw-r--r-- 1 root root    0 Oct 12 07:51 ls_cwg
+-rw-r--r-- 1 root root    0 Oct 12 07:13 School"'\*$?*****:)
